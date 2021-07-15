@@ -1,6 +1,7 @@
 ### slide::
 ### title:: Joins / Aliases / Subqueries / CTEs
 # create the same table as we used earlier..
+# yar
 
 from sqlalchemy import MetaData, Table, Column
 from sqlalchemy import String, Integer
